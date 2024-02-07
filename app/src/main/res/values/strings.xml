@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Greedy Snack</string>
+    <string name="title_front">Greedy</string>
+    <string name="game_start">start</string>
+</resources>

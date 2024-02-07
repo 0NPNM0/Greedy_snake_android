@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="mybg">#EFFFC2</color>
+    <color name="mydred">#C85353</color>
+    <color name="mymblue">#7D9FDD</color>
+    <color name="mydblue">#2C63C8</color>
+    <color name="mylblue">#C2D4F5</color>
+    <color name="mygrey">#C4C4C4</color>
+    <color name="mylgreen">#008409</color>
+    <color name="mylred">#FADADE</color>
+</resources>
