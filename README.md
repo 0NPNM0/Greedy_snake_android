@@ -4,3 +4,9 @@
 本项目中除了启动页的插图为个人绘制，其余插图均由stable diffusion生成。
 ![132090328777841951](https://github.com/0NPNM0/Greedy_snake/assets/98509588/0faa4268-dcf4-4e39-b9e8-9b9162fe2aa3)
 ![580297990904043928](https://github.com/0NPNM0/Greedy_snake/assets/98509588/5c04845f-87e3-4080-b1e4-8842504abf43)
+
+真机演示：
+
+
+https://github.com/0NPNM0/Greedy_snake_android/assets/98509588/b6d40fae-b22d-4dde-9af6-df5cda4bf88b
+
